@@ -3,8 +3,6 @@
 <h2 align="center">Hello! My name is Vitalii and I'm a Java developer from Lviv, Ukraine.</h2>
 <p>Oriented on result, motivated, responsible developer with excellent analytical skills and attention to detail. Well-versed in Java programming, data structures, algorithms, and object-oriented design principles. Skilled in utilizing various tools and technologies. Also I am active team player who is wants to deliver high-quality work and continue expanding my knowledge and skills in Java development.</p>
 
-#
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vitaliistf" height="150" alt="stats graph"  />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=vitaliistf" height="150" alt="languages graph"  />
@@ -15,7 +13,6 @@
 <h2 align="center">Skills</h2>
 
 <div align="center">
-
 <h3>Backend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" width="42" alt="spring logo"  />
