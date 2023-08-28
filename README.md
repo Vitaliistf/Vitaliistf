@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=vitaliistf" height="150" alt="languages graph"  />
 </div>
 
-#
-
 <h2 align="center">Skills</h2>
 <div align="center">
 <h3>Backend</h3>
@@ -41,8 +39,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="30" width="30" alt="idea logo"  />
 </div>
 
-#
-
 <h2 align="center">Get in touch with me</h2>
 
 <div align="center">
@@ -62,8 +58,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-#
 
 <div align="center">
   <p>Also i like to solve alogrithmic tasks on LeetCode. Here are my stats.</p>
