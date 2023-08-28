@@ -11,7 +11,6 @@
 #
 
 <h2 align="center">Skills</h2>
-
 <div align="center">
 <h3>Backend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" width="42" alt="java logo"  />
