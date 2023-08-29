@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=vitaliistf&fontSize=90&animation=twinkling)
 
 <h2 align="center">Hello! My name is Vitalii and I'm a Java developer from Lviv, Ukraine.</h2>
-<p>Oriented on result, motivated, responsible developer with excellent analytical skills and attention to detail. Well-versed in Java programming, data structures, algorithms, and object-oriented design principles. Skilled in utilizing various tools and technologies. Also I am active team player who is wants to deliver high-quality work and continue expanding my knowledge and skills in Java development.</p>
+<p>Oriented on result, motivated, responsible developer with excellent analytical skills and attention to detail. Well-versed in Java programming, data structures, algorithms, and object-oriented design principles. Skilled in utilizing various tools and technologies. Also I am active team player who wants to deliver high-quality work and continue expanding my knowledge and skills in Java development.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vitaliistf" height="150" alt="stats graph"  />  
