@@ -21,7 +21,7 @@ wants to deliver high-quality work and continue expanding my knowledge and skill
     <li>VCS: GIT.</li>
     <li>Containers: Docker.</li>
     <li>AGILE: Scrum, Kanban.</li>
-    <li>Other: C, C++, Python.</li>
+    <li>Other: C, C++, Python, Assembly language.</li>
 </ul>
 
 <h2 align="center">Get in touch with me</h2>
