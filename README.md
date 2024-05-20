@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=vitaliistf&fontSize=90&animation=twinkling)
 
-<h2 align="center">Hello! My name is Vitalii and I'm a Java developer from Lviv, Ukraine.</h2>
+<h2 align="center">Hello! My name is Vitalii and I'm a Software Engineer from Lviv, Ukraine.</h2>
 <p>Oriented on result, motivated, responsible developer with good analytical skills and attention to detail. 
-Well-versed in Java programming, data structures, algorithms, and object-oriented design principles. 
+Well-versed in software development, data structures, algorithms, and object-oriented design principles. 
 Skilled in utilizing various tools and technologies. Quick learner. Also I am an active team player who 
 wants to deliver high-quality work and continue expanding my knowledge and skills in software development.</p>
 
@@ -14,14 +14,15 @@ wants to deliver high-quality work and continue expanding my knowledge and skill
 <h2 align="center">Skills</h2>
 <ul>
     <li>Java: Java Core, Collections, OOP, SOLID, Concurrency, Design Patterns.</li>
+    <li>Front-end: HTML, CSS, JS, TS, JQuery, Angular, React.</li>
     <li>DB: Hibernate, JDBC, SQL, NoSQL.</li>
-    <li>Spring: Core, WEB, Boot, Security, Data. 
-    <li>Web: Servlets, JSP, Tomcat, HTML, CSS, XML, REST, JS, TS, JQuery, Angular, Thymeleaf.</li>
-    <li>Tools: JUnit, Mockito, Maven, Postman, Liquibase, Swagger.</li>
+    <li>Spring: Core, WEB, Boot, Security, Data.</li>
+    <li>Web: Servlets, JSP, Tomcat, Thymeleaf, REST.</li>
+    <li>Tools: JUnit, Mockito, Maven, Gradle, Postman, Liquibase, Swagger.</li>
     <li>VCS: GIT.</li>
     <li>Containers: Docker.</li>
     <li>AGILE: Scrum, Kanban.</li>
-    <li>Other: C, C++, Python, Assembly language.</li>
+    <li>Other: Python, C, C++, Assembly language, PSOC, RTOS, System programming.</li>
 </ul>
 
 <h2 align="center">Get in touch with me</h2>
