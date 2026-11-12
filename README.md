@@ -1,52 +1,54 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=vitaliistf&fontSize=90&animation=twinkling)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Vitalii%20Stefaniv&fontSize=64&desc=Full-Stack%20Engineer%20%7C%20Node.js%20%26%20Java&descAlignY=72&animation=twinkling" width="100%" alt="Vitalii Stefaniv — Full-Stack Engineer" /></p>
 
-<h2 align="center">Hello! My name is Vitalii and I'm a Software Engineer from Lviv, Ukraine.</h2>
-<p>Oriented on result, motivated, responsible developer with good analytical skills and attention to detail. 
-Well-versed in software development, data structures, algorithms, and object-oriented design principles. 
-Skilled in utilizing various tools and technologies. Quick learner. Also I am an active team player who 
-wants to deliver high-quality work and continue expanding my knowledge and skills in software development.</p>
+<h3 align="center">Hi, I'm Vitalii — a full-stack engineer from Ukraine 🇺🇦</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vitaliistf" height="150" alt="stats graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=vitaliistf" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+6+ years building production systems end to end: multi-tenant SaaS, event-driven microservices,
+high-load backends, IoT platforms and, most recently, AI security tooling for enterprises.
+</p>
 
-<h2 align="center">Skills</h2>
-<ul>
-    <li>Java: Java Core, Collections, OOP, SOLID, Concurrency, Design Patterns.</li>
-    <li>Front-end: HTML, CSS, JS, TS, JQuery, Angular, React.</li>
-    <li>DB: Hibernate, JDBC, SQL, NoSQL.</li>
-    <li>Spring: Core, WEB, Boot, Security, Data.</li>
-    <li>Web: Servlets, JSP, Tomcat, Thymeleaf, REST.</li>
-    <li>Tools: JUnit, Mockito, Maven, Gradle, Postman, Liquibase, Swagger.</li>
-    <li>VCS: GIT.</li>
-    <li>Containers: Docker.</li>
-    <li>AGILE: Scrum, Kanban.</li>
-    <li>Other: Python, C, C++, Assembly language, PSOC, RTOS, System programming.</li>
-</ul>
+---
 
-<h2 align="center">Get in touch with me</h2>
+### 🧭 What I do
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=deosplayt@gmail.com&tf=cm">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=deosplayt@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+- 🏗 **End-to-end ownership** — I take products from a blank page to production and keep them running: data model, APIs, UI, infrastructure, all of it.
+- ⚡ **Systems built for scale** — distributed, event-driven backends that stay fast and reliable when the traffic, the data and the team grow.
+- 🤖 **AI that ships** — LLM-powered features that work in production for real users, not just in demos.
+- ☁️ **Cloud-native delivery** — containerised, automated and observable, so releases are frequent, boring and safe.
+- 🔐 **Secure by design** — enterprise-grade systems built with access control, privacy and compliance in mind from day one.
 
-  <a href="https://www.linkedin.com/in/vitalii-stefaniv-60b878251/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+### 🛠 Tech stack
 
-  <a href="https://t.me/vitaliistf">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,java,spring,go,python,fastapi,c,cpp&perline=12" alt="Languages and backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,sass,tailwind,materialui,styledcomponents,jquery,electron&perline=12" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,sequelize,hibernate,graphql,kafka,rabbitmq,nginx&perline=12" alt="Data and messaging" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,docker,kubernetes,terraform,githubactions,jenkins,gitlab,linux,bash&perline=12" alt="Cloud and DevOps" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,postman,git,github,maven,gradle,npm,vite,webpack,idea&perline=12" alt="Testing and tools" />
+</p>
 
-  <a href="https://www.instagram.com/vitaliistf/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+### 📊 GitHub & LeetCode
 
-<div align="center">
-  <p>Also i like to solve alogrithmic tasks on LeetCode. Here are my stats.</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitaliistf&theme=dracula&hide_border=true" height="165" alt="GitHub contribution streak" />
+</p>
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=vitaliistf&theme=dark" alt="LeetCode stats" />
+</p>
 
-![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vitaliistf&theme=dark)
-</div>
+### 📫 Get in touch
+
+<p align="center">
+  <a href="mailto:deosplayt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vitalii-stefaniv-60b878251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/vitaliistf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/vitaliistf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">🇺🇦 Ukrainian (native) · 🇬🇧 English (advanced) · 🎓 Lviv Polytechnic, Computer Engineering</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="" /></p>
