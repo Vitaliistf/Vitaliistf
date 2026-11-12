@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Vitalii%20Stefaniv&fontSize=64&desc=Full-Stack%20Engineer%20%7C%20Node.js%20%26%20Java&descAlignY=72&animation=twinkling" width="100%" alt="Vitalii Stefaniv — Full-Stack Engineer" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Vitalii%20Stefaniv&fontSize=64&desc=Full-Stack%20Engineer%20%C2%B7%20Node.js%20%C2%B7%20Java&descAlignY=72&animation=twinkling" width="100%" alt="Vitalii Stefaniv — Full-Stack Engineer" /></p>
 
 <h3 align="center">Hi, I'm Vitalii — a full-stack engineer from Ukraine 🇺🇦</h3>
 
